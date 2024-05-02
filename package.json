@@ -1,6 +1,6 @@
 {
-  "name": "numbers",
-  "version": "1.0.0",
+  "name": "a-j-numbers",
+  "version": "1.0.1",
   "description": "100 days coding challenge questions ",
   "main": "doubleNumber.js",
   "type": "module",
